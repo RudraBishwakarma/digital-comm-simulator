@@ -34,7 +34,7 @@ Primary references:
 
 ---
 
-## Quick verification (5–10 minutes)
+## Quick verification
 
 ### Prerequisites
 
