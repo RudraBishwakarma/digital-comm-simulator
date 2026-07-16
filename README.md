@@ -221,12 +221,6 @@ Future versions will include
 
 ---
 
-## License
-
-MIT License.
-
----
-
 ## Author
 
 **Rudra Bishwakarma**
